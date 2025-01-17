@@ -16,7 +16,7 @@
   "license": "GPL-3.0-only",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yb6b/yima"
+    "url": "https://github.com/gbcp/yima/"
   },
   "type": "module",
   "scripts": {
